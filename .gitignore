@@ -1,0 +1,7 @@
+/DeepWinter.InterComponentEventHub.Tests/bin
+/DeepWinter.InterComponentEventHub.Tests/obj
+/DeepWinter.InterComponentEventHub.Example/obj
+/DeepWinter.InterComponentEventHub.Example/bin
+/DeepWinter.InterComponentEventHub/obj
+/DeepWinter.InterComponentEventHub/bin
+*.user
